@@ -1,0 +1,11 @@
+C:\Users\spenc\source\repos\KnowledgeCheckCalc\KnowledgeCheckCalc\bin\Debug\KnowledgeCheckCalc.exe.config
+C:\Users\spenc\source\repos\KnowledgeCheckCalc\KnowledgeCheckCalc\bin\Debug\KnowledgeCheckCalc.exe
+C:\Users\spenc\source\repos\KnowledgeCheckCalc\KnowledgeCheckCalc\bin\Debug\KnowledgeCheckCalc.pdb
+C:\Users\spenc\source\repos\KnowledgeCheckCalc\KnowledgeCheckCalc\obj\Debug\KnowledgeCheckCalc.csproj.AssemblyReference.cache
+C:\Users\spenc\source\repos\KnowledgeCheckCalc\KnowledgeCheckCalc\obj\Debug\KnowledgeCheckCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\spenc\source\repos\KnowledgeCheckCalc\KnowledgeCheckCalc\obj\Debug\KnowledgeCheckCalc.Form1.resources
+C:\Users\spenc\source\repos\KnowledgeCheckCalc\KnowledgeCheckCalc\obj\Debug\KnowledgeCheckCalc.Properties.Resources.resources
+C:\Users\spenc\source\repos\KnowledgeCheckCalc\KnowledgeCheckCalc\obj\Debug\KnowledgeCheckCalc.csproj.GenerateResource.cache
+C:\Users\spenc\source\repos\KnowledgeCheckCalc\KnowledgeCheckCalc\obj\Debug\KnowledgeCheckCalc.csproj.CoreCompileInputs.cache
+C:\Users\spenc\source\repos\KnowledgeCheckCalc\KnowledgeCheckCalc\obj\Debug\KnowledgeCheckCalc.exe
+C:\Users\spenc\source\repos\KnowledgeCheckCalc\KnowledgeCheckCalc\obj\Debug\KnowledgeCheckCalc.pdb
