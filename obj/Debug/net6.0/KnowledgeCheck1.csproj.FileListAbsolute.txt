@@ -1,0 +1,15 @@
+C:\Users\spenc\source\repos\KnowledgeCheck1\KnowledgeCheck1\bin\Debug\net6.0\KnowledgeCheck1.exe
+C:\Users\spenc\source\repos\KnowledgeCheck1\KnowledgeCheck1\bin\Debug\net6.0\KnowledgeCheck1.deps.json
+C:\Users\spenc\source\repos\KnowledgeCheck1\KnowledgeCheck1\bin\Debug\net6.0\KnowledgeCheck1.runtimeconfig.json
+C:\Users\spenc\source\repos\KnowledgeCheck1\KnowledgeCheck1\bin\Debug\net6.0\KnowledgeCheck1.dll
+C:\Users\spenc\source\repos\KnowledgeCheck1\KnowledgeCheck1\bin\Debug\net6.0\KnowledgeCheck1.pdb
+C:\Users\spenc\source\repos\KnowledgeCheck1\KnowledgeCheck1\obj\Debug\net6.0\KnowledgeCheck1.csproj.AssemblyReference.cache
+C:\Users\spenc\source\repos\KnowledgeCheck1\KnowledgeCheck1\obj\Debug\net6.0\KnowledgeCheck1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spenc\source\repos\KnowledgeCheck1\KnowledgeCheck1\obj\Debug\net6.0\KnowledgeCheck1.AssemblyInfoInputs.cache
+C:\Users\spenc\source\repos\KnowledgeCheck1\KnowledgeCheck1\obj\Debug\net6.0\KnowledgeCheck1.AssemblyInfo.cs
+C:\Users\spenc\source\repos\KnowledgeCheck1\KnowledgeCheck1\obj\Debug\net6.0\KnowledgeCheck1.csproj.CoreCompileInputs.cache
+C:\Users\spenc\source\repos\KnowledgeCheck1\KnowledgeCheck1\obj\Debug\net6.0\KnowledgeCheck1.dll
+C:\Users\spenc\source\repos\KnowledgeCheck1\KnowledgeCheck1\obj\Debug\net6.0\refint\KnowledgeCheck1.dll
+C:\Users\spenc\source\repos\KnowledgeCheck1\KnowledgeCheck1\obj\Debug\net6.0\KnowledgeCheck1.pdb
+C:\Users\spenc\source\repos\KnowledgeCheck1\KnowledgeCheck1\obj\Debug\net6.0\KnowledgeCheck1.genruntimeconfig.cache
+C:\Users\spenc\source\repos\KnowledgeCheck1\KnowledgeCheck1\obj\Debug\net6.0\ref\KnowledgeCheck1.dll
